@@ -1,7 +1,7 @@
 ### Olá pessoas! Eu sou o Bruno Divino! 😁
 ---
 - 🔭 Hoje trabalho com assistência educacional de DevOps
-- 🌱 Estou estudando Java 
+- 🌱 Estou estudando Python e Java 
 - 😄 Pronomes: Ele/Dele
 
  
