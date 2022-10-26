@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/__bdivino__" target="blank"><img src="https://img.shields.io/twitter/follow/__bdivino__?logo=twitter&style=for-the-badge" alt="__bdivino__" /></a> </p>
 
-<div>
-  - 🔭 I’m currently working at [Alura](https://www.alura.com.br/)
 
-  - 🌱 I’m currently learning **FastAPI**
+- 🔭 I’m currently working at [Alura](https://www.alura.com.br/)
 
-  - 👯 I’m looking to collaborate on the [PT-BR Translation of the Python Documentation](https://github.com/python/python-docs-pt-br)
+- 🌱 I’m currently learning **FastAPI**
 
-  - 💬 Ask me about **Python, Flask or Django**
+- 👯 I’m looking to collaborate on the [PT-BR Translation of the Python Documentation](https://github.com/python/python-docs-pt-br)
 
-  - 📫 How to reach me **brunodivino.dev@gmail.com**
-</div>
+- 💬 Ask me about **Python, Flask or Django**
+
+- 📫 How to reach me **brunodivino.dev@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
