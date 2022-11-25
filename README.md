@@ -2,7 +2,7 @@
 <h3 align="center">I'm a developer passionate about code and cinema</h3>
 <img align="right" alt="A little cat coding in front of a computer." width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/__bdivino__" target="blank"><img src="https://img.shields.io/twitter/follow/__bdivino__?logo=twitter&style=for-the-badge" alt="__bdivino__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bdivino_" target="blank"><img src="https://img.shields.io/twitter/follow/bdivino_?logo=twitter&style=for-the-badge" alt="__bdivino__" /></a> </p>
 
 
 - 🔭 I’m currently working at [Alura](https://www.alura.com.br/)
